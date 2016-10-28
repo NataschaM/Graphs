@@ -1,8 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.nata.graphs.logging</groupId>
 	<artifactId>GraphsLogging</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3-SNAPSHOT</version>
 
 	<distributionManagement>
 		<snapshotRepository>
@@ -85,13 +86,12 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-	
+
 	<scm>
-		<url>http://github.com/NataschaM/Graphs/tree/master/GraphsLogging</url>
-		<connection>scm:git:https://github.com/NataschaM/Graphs/tree/master/GraphsLogging</connection>
-		<developerConnection>scm:git:https://github.com/NataschaM/Graphs/tree/master/GraphsLogging</developerConnection>
-	  <tag>v1.0.2</tag>
-  </scm>
+		<url>http://github.com/NataschaM/Graphs</url>
+		<connection>scm:git:https://github.com/NataschaM/Graphs/GraphsLogging.git</connection>
+		<developerConnection>scm:git:https://github.com/NataschaM/Graphs/GraphsLogging.git</developerConnection>
+	</scm>
 
 
 </project>
