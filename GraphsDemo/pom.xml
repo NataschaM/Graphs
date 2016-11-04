@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>org.jgrapht</groupId>
 			<artifactId>jgrapht-core</artifactId>
-			<version>1.0.0</version>
+			<version>0.9.1</version>
 		</dependency>
 		<dependency>
 			<groupId>jgraph</groupId>
@@ -30,7 +30,7 @@
 		<dependency>
 			<groupId>de.nata.graphs.logging</groupId>
 			<artifactId>GraphsLogging</artifactId>
-			<version>1.0.6</version>
+			<version>1.0.6-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
